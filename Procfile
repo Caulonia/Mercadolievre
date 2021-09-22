@@ -1,2 +1,2 @@
-web: node ./mercadolievre/app.js
+web: node app.js
 
